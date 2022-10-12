@@ -1,0 +1,119 @@
+.ligne{
+    display: flex;
+    padding-top: 10px;
+    margin-right: 12px;
+    justify-content: center;  
+}
+#barre{
+
+    border-left: 2px solid darkolivegreen;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size:larger;
+    border:5px;
+}
+.col-8{
+    width: 65%;
+    padding-left:12px ;
+    padding-right: 12px;
+}
+.izmor{
+    border-bottom: 1px;
+}
+.col-3{
+    width: 25%;
+    padding-left:12px ;
+    padding-right: 12px;
+}
+.col-4{
+   width: 50%;
+   text-decoration:justify;
+   padding-left:20px ;
+   padding-right: 12px;   
+}
+.col-6{
+    width: 65%;
+    padding-left: 12px;
+    padding-right: 12px;   
+}
+.col-2 img{
+    padding-bottom: 50%;
+    margin-left: 20%; 
+    align-items: center;  
+}
+.titre{
+    background-color: honeydew;
+	height: 60px;
+	width: 100%;
+	box-shadow:0px 3px 3px  darkgreen;  
+    margin-bottom: 20px;
+}
+h1{
+    font-family:'dancing script';
+    
+    color:darkolivegreen;
+}   
+img{
+    max-width:100%;
+}
+span{
+    align-content: center;
+    color: darkolivegreen;
+}
+hr{
+    border: 1px solid darkolivegreen;
+}
+p{
+    font-size:initial;
+   text-align: justify;
+}
+h1{
+    font-family:'dancing script',script;
+    color: darkolivegreen;   
+}
+h2{
+font-family:'dancing script',script;
+text-align: center;
+}
+section{
+    display: flex; 
+    text-overflow: ellipsis;
+    border-bottom: 1px   darkolivegreen;
+}
+.conect{
+    text-align: center;
+}
+#bord{
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px solid black;
+    border-top: 10px;
+    border-bottom: 10px;
+}
+
+#bar{
+     border-bottom: 2px dashed darkolivegreen;
+     padding-right: 10px;
+     padding-left: 10px;
+     border-bottom-height : 50px;  
+}
+#img{
+     
+     padding-left: 20px ;
+     padding-right: 100px;
+     padding-top: 100px;
+     padding-bottom: 100px;     
+}
+.footer{
+    padding-top: 50px;
+    padding-bottom: 10px;
+font-family:'dancing script',script;
+text-align: center;
+}
+.link{
+   text-decoration: none;
+    color: darkolivegreen;
+}
